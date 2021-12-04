@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RhythmAgarwal
-- 👀 I’m interested in OS as well as Game Development  
-- 🌱 I’m currently learning Unity (C#)
-- 💞️ I’m looking to collaborate on an Open World Game on Unity
-- 📫 How to reach me? email- rhythmagarwal@hotmail.com
+- 👀 I’m interested in Crypto Automation as well as Making my Own Crypto Exchange  
+- 🌱 I’m currently Programing with Python
+- 💞️ I’m looking to collaborate on an Crypto Exchange like Binance.
+- 📫 How to reach me? email- rhythmthedev@gmail.com
